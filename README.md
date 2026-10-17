@@ -34,4 +34,10 @@ Part of HATH (Humanity at the Helm), my name for how I set up Claude: I design a
 
 ## License
 
-MIT. Free to use, copy, and change. See LICENSE.
+Source-available, free for noncommercial use. This is not an open source license.
+
+Licensed under [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0). You can use, copy, share, and change it for anything noncommercial, as long as you credit me and link to the license. See [LICENSE](LICENSE).
+
+Want to use it commercially? You need a separate license from me. Email gpetermaloney@gmail.com.
+
+Versions published through October 16, 2026 were released under the MIT License. If you got a copy then, those MIT rights stay with that copy. Everything after is CC BY-NC 4.0 only.
