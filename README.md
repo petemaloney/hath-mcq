@@ -31,3 +31,7 @@ I built it because I didn't want to become a prompt engineer. My LLM could ask t
 3. Start any request with `/mcq` and answer the cards.
 
 Part of HATH (Humanity at the Helm), my name for how I set up Claude: I design and decide, Claude builds.
+
+## License
+
+MIT. Free to use, copy, and change. See LICENSE.
