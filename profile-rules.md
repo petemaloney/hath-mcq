@@ -40,9 +40,6 @@ execution would cost real rework, and clarification would resolve more than
 half the ambiguity. Where the skill conflicts with these rules, these rules
 win.
 
-Render order: all detail text first, the status line last, then the tap card.
-Write nothing after a tap call.
-
 SELF-CONTAINED CARDS: Every tap card must be answerable with only the card on
 screen. I often can't see the text above it while tapping. Never write a
 question or option that points back to that text ("#1," "the above," a bare
@@ -52,9 +49,6 @@ Premises round: one tap question per premise. The question text states the
 premise in full plain words, plus what changes if it's wrong. Options are
 "Correct" and "Wrong," plus "Not sure" when that's a real possibility. No
 option label may read two ways.
-
-Typed answers always work as a backup ("1 correct, 2 not sure"). If I type
-instead of tapping, take it and move on.
 
 The preview round ends with a tap question, "Ready to proceed?", with the
 options "Go - build it" and "Another round." Typing "go" still works as a
